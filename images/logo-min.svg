@@ -1,0 +1,14 @@
+<svg width="820" height="256" version="1.1" viewBox="0 0 216.96 67.733" xmlns="http://www.w3.org/2000/svg">
+<g fill-opacity=".078431">
+<g transform="matrix(.98708 0 0 .98538 .006742 .98266)" fill="#fff">
+<path d="m29.784-0.34341-29.138 29.144-1.226e-4 2.9671 29.138 1.39e-4 2.9734-2.9673 6.3e-5 -29.144z" fill="#fff" fill-opacity=".078431" stroke-opacity="0"/>
+<g stroke-opacity="0">
+<path d="m38.822-0.34346 29.138 29.144 1.26e-4 2.9671-29.138 1.85e-4 -2.9734-2.9673-6.3e-5 -29.144z"/>
+<path d="m29.784 67.087-29.138-29.144-1.2294e-4 -2.9671 29.138-1.85e-4 2.9734 2.9673 6.3e-5 29.144z"/>
+<path d="m38.822 67.087 29.138-29.144 1.22e-4 -2.9671-29.138-1.85e-4 -2.9734 2.9673-6.3e-5 29.144z"/>
+</g>
+</g>
+<text x="70.014908" y="51.956299" fill="#ffffff" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="70.014908" y="51.956299" fill="#ffffff" fill-opacity=".078431" font-family="Arial" font-size="33.867px" stroke-width=".26458">Jazea.org</tspan></text>
+<text x="140.66655" y="28.988388" fill="#ffffff" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="140.66655" y="28.988388" fill="#ffffff" fill-opacity=".078431" font-size="16.933px" stroke-width=".26458">Research</tspan></text>
+</g>
+</svg>
